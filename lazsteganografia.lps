@@ -21,8 +21,8 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uMain"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="53"/>
-        <CursorPos Y="61"/>
+        <TopLine Value="44"/>
+        <CursorPos X="28" Y="46"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -31,8 +31,8 @@
         <Filename Value="usteganografia.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="51"/>
-        <CursorPos X="8" Y="59"/>
+        <TopLine Value="137"/>
+        <CursorPos X="42" Y="152"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>

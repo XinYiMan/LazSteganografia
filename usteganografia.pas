@@ -19,8 +19,8 @@ type
 
           constructor Create;
           destructor Free;
-          function SaveTextIntoJpg(Text : string; FileName : string) : boolean;
-          function LoadTextFromJpg(var Text: string; FileName: string): boolean;
+          function SaveTextIntoBMP(Text : string; FileName : string) : boolean;
+          function LoadTextFromBMP(var Text: string; FileName: string): boolean;
     end;
 
 implementation
@@ -37,7 +37,7 @@ implementation
 
   end;
 
-  function TSteganografia.SaveTextIntoJpg(Text: string; FileName: string
+  function TSteganografia.SaveTextIntoBMP(Text: string; FileName: string
       ): boolean;
   var
      ret      : boolean;
@@ -95,7 +95,7 @@ implementation
        result := ret;
   end;
 
-  function TSteganografia.LoadTextFromJpg(var Text: string; FileName: string
+  function TSteganografia.LoadTextFromBMP(var Text: string; FileName: string
     ): boolean;
   var
      ret      : boolean;

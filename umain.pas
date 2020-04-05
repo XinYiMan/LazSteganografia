@@ -43,7 +43,7 @@ var
    app : TSteganografia;
 begin
      app := TSteganografia.Create;
-     if app.SaveTextIntoJpg(Self.Txt_Message.Text, Self.Txt_FileName.Text) then
+     if app.SaveTextIntoBMP(Self.Txt_Message.Text, Self.Txt_FileName.Text) then
         ShowMessage('Message added')
      else
          ShowMessage('Message added failed');
@@ -57,7 +57,7 @@ var
    msg : string;
 begin
      app := TSteganografia.Create;
-     if app.LoadTextFromJpg(msg, Self.Txt_FileName.Text) then
+     if app.LoadTextFromBMP(msg, Self.Txt_FileName.Text) then
         Memo1.Text := msg
      else
          ShowMessage('Failed');
