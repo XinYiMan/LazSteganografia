@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="lazsteganografia.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uMain"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="53"/>
+        <CursorPos Y="61"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="usteganografia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="8" Y="59"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="147" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="123" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="125" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="128" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="135" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="137" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="143" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="147" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="123" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="125" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="128" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="135" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="137" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="140" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="147" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="123" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="125" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="128" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="130" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="131" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="135" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="147" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="123" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="125" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="128" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="130" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="60" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="usteganografia.pas"/>
+        <Caret Line="130" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="60" Column="14" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="61" Column="14" TopLine="58"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
